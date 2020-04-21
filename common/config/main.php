@@ -13,7 +13,7 @@ return [
             'class' => 'yii\db\connection',
             'dsn' => 'mysql:host=localhost;dbname=store',
             'username' => 'root',
-            'password' => '123456',
+            'password' => 'N6Z2nAUPZvaxsdJZ',
             'charset' => 'utf-8'
         ],
     ],
